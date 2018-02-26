@@ -16,11 +16,6 @@ body{
 	font-size: 39px;
 }
 
-/*
-@media screen and (max-width: 794px){
-	.navbar-brand{font-size: 28px}
-}
-*/
 @media screen and (max-width: 798px){
 	.navbar-brand{font-size: 30px}
 }
@@ -159,7 +154,7 @@ body{
 		width: 310px;
 		margin-bottom: 11%}
 }
-/*
+
 .box1_1{
 	background-color: #ffffff;
     box-shadow: 0 20px 23px 0 #e9e9f0;
@@ -187,7 +182,6 @@ body{
 	.box1_1{margin-left: -1%;
 			width: 350px;}
 }
-*/
 
 #boxp1{
 	font-family: ;
@@ -221,26 +215,6 @@ body{
 	margin-bottom: 3%;
 }
 
-/*
-.boxbtn1_1{
-	border-radius: 100px;
-	background-color: #313198;
-	color: #ffffff;
-	height: 68px;
-	width: 241px;
-	margin-top: 15%;
-	text-align: center;
-	border: solid 1px #313198;
-}
-@media screen and (max-width: 1000px){
-	.boxbtn1_1{margin-bottom: 15%}
-}
-.boxbtn1_1:hover{
-	border: solid 1px #333399;
-	background-color: #ffffff;
-	color: #313198;
-}
-*/
 .boxbtn1{
 	border-radius: 100px;
 	background-color: #313198;
@@ -263,19 +237,6 @@ body{
 	.boxbtn1{width: 190px;
 		height: 55px;}
 }
-
-/*
-.boxbtn1_3{
-	border-radius: 100px;
-	background-color: #313198;
-	color: #ffffff;
-	height: 68px;
-	width: 241px;
-	margin-top: 20%;
-	text-align: center;
-	border: solid 1px #313198;
-}
-*/
 
 .boxbtn1:hover{
 	border: solid 1px #333399;
@@ -478,11 +439,14 @@ body{
 #owl-example .item{
   background: #ffffff;
   box-shadow: 0 20px 23px 0 #e9e9f0;
-  margin: 1px;
+  margin: 1%;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
   text-align: center;
+  padding: 15px;
+  width: 279px;
+  height: 309px;
 }
 
 .bottomp1{
@@ -531,24 +495,24 @@ body{
   -moz-border-radius: 3px;
   border-radius: 3px;
   text-align: center;
+  width: 30%;
+}
+
+.bottom{
+	padding-bottom: %;
 }
 
 /*
-.bottom{
-	padding-top: %;
-}
-
 .bottom1{
 	margin-bottom: 3%;
 	text-align: center;
 }
-
-
+*/
 
 .bottom2{
 	margin-left: 3%;
-	margin-top: 5%;
-	margin-bottom: 10%;
+	margin-top: 2%;
+	margin-bottom: 3%;
 }
 
 .bottom3{
@@ -561,6 +525,7 @@ body{
 	margin-bottom: 1%;
 	margin: 0.6%;
 }
+
 @media screen and (max-width: 909px){
 	.bottom3{margin-left: 7%;
 			margin-bottom: 2%;}
@@ -587,14 +552,22 @@ body{
 			margin-bottom: 2%;}
 		}
 
-
+*/
 /*bottom end*/
 
 .footer{
-	padding-top: 3%;
-	padding-bottom: 3%;
 	padding-left: 5%;
+	padding-bottom: 3%;
+	padding-top: 3%;
 	background-color: #f9f9f9;
+}
+
+.end{
+	background-color: #f9f9f9;
+	padding-left: 5%;
+	padding-bottom: 3%;
+	padding-top: 3%;
+
 }
 
 .footerp1{
