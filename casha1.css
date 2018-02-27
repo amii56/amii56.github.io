@@ -114,11 +114,6 @@ body{
 
 	/*top box begin*/
 
-.box{
-	margin-left: %;
-	margin-right: %;
-}
-
 .box1{
 	background-color: #ffffff;
     box-shadow: 0 20px 23px 0 #e9e9f0;
