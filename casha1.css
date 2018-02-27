@@ -294,6 +294,9 @@ body{
 	border: solid 1px #333399;
 }
 
+.carbox{
+	margin-bottom: 20px;
+}
 
  .cont{
  	padding-top: 4%;
@@ -462,7 +465,7 @@ body{
 /*bottom end*/
 
 .footer{
-	padding-left: 5%;
+	padding-left: %;
 	padding-bottom: 3%;
 	padding-top: 3%;
 	background-color: #f9f9f9;
@@ -470,7 +473,7 @@ body{
 
 .end{
 	background-color: #f9f9f9;
-	padding-left: 5%;
+	padding-left: %;
 	padding-bottom: 3%;
 	padding-top: 3%;
 
