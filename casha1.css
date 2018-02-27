@@ -386,19 +386,9 @@ body{
 
 /*bottom begin*/
 
-#owl-example .item{
-  background: #ffffff;
-  box-shadow: 0 20px 23px 0 #e9e9f0;
-  margin: 1%;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
-  text-align: center;
-  padding: 15px;
-  width: 279px;
-  height: 309px;
+.bottom{
+	padding-top: 5%;
 }
-
 .bottomp1{
 	font-size: 16px;
 	text-align: center;
@@ -431,19 +421,9 @@ body{
 }
 
 .bottom1{
-	margin-top: 4%;
+	margin-top: %;
 	margin-bottom: 3%;
 	text-align: center;
-}
-
-.bottom{
-	padding-bottom: %;
-}
-
-.bottom2{
-	margin-left: 3%;
-	margin-top: 2%;
-	margin-bottom: 3%;
 }
 
 .bottom3{
@@ -451,10 +431,10 @@ body{
 	box-shadow: 0 20px 23px 0 #e9e9f0;
 	text-align: center;
 	height: 309px;
-	width: 279px;
+	width: 275px;
 	padding: 33px;
 	margin-bottom: 1%;
-	margin: 0.6%;
+	margin: 0.3%;
 }
 
 @media screen and (max-width: 909px){
