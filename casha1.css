@@ -4,11 +4,17 @@ body{
 
 /*navbar begin*/
 
+.topbar{
+	background-color: #f8f8ff;
+	margin-bottom: 0%;
+}
+
 .navbar{
 	background-color: #f8f8ff;
 	padding-bottom: %;
 	padding-top: 2%;
 	margin-bottom: 0%;
+	
 }
 
 .navbar-brand{
