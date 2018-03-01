@@ -350,7 +350,7 @@ body{
 @media screen and (max-width: 465px){
 	.btn-grp{margin-left: 3%}
 }
-@media screen and (max-width: 444px){
+@media screen and (max-width: 450px){
 	.btn-grp{font-size: 9px;}
 }
 
