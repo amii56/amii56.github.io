@@ -295,6 +295,7 @@ body{
 	background-color: #fff;
 	border: solid 1px #333399;
 }
+
 .carousel-indicators>li.active, .carousel-indicators>li.active:focus{
 	background-color: #333399;
 	border: solid 1px #333399;
@@ -309,7 +310,6 @@ body{
  	text-align: center;
  	background-color: #f8f8ff; 
  }
-
 
 .btn-grp{
 	max-width: %;
@@ -351,7 +351,8 @@ body{
 	.btn-grp{margin-left: 3%}
 }
 @media screen and (max-width: 444px){
-	.btn-grp{font-size: 11px}
+	.btn-grp{font-size: 10px;
+		margin-left: 5%;}
 }
 
 	/*group button end*/
