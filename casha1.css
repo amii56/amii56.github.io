@@ -351,8 +351,7 @@ body{
 	.btn-grp{margin-left: 3%}
 }
 @media screen and (max-width: 444px){
-	.btn-grp{font-size: 10px;
-		margin-left: 3%;}
+	.btn-grp{font-size: 9px;}
 }
 
 	/*group button end*/
